@@ -25,7 +25,9 @@ Generate business-focused recommendations.
 *Dataset*
 
 Dataset: IBM HR Analytics – Employee Attrition & Performance
+
 Source: Kaggle
+
 The dataset contains information about employees, including:
 Age
 Department
@@ -41,12 +43,19 @@ Attrition (Yes/No)
 And several other HR-related variables.
 
 *Tools & Libraries*
+
 Python
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 
 *Project Workflow*
 Business Understanding
@@ -60,18 +69,28 @@ Reflection
 
 *Key Findings*
 Most employees remain with the company, while approximately 16% have left.
+
 Research & Development is the largest department and records the highest number of employees leaving.
+
 Employees who work overtime are more likely to experience attrition.
+
 Younger employees and those with lower monthly incomes show higher attrition.
+
 Employees with shorter tenure and fewer total working years are more likely to leave.
+
 Job role and department appear to influence employee turnover.
 
 *Files Included*
 ├── Week1_Employee_Attrition_Analysis.ipynb
+
 ├── Business_Understanding_Report.pdf
+
 ├── Dataset_Inspection_Report.pdf
+
 ├── Reflection_Report.pdf
+
 └── README.md
+
 
 
 *Skills Demonstrated*
@@ -84,7 +103,7 @@ Business Insight Generation
 Data Storytelling
 Technical Documentation
 
-8Future Improvements*
+*Future Improvements*
 Future work on this project could include:
 Feature Engineering
 Statistical Hypothesis Testing
