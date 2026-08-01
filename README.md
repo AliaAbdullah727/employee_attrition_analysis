@@ -68,6 +68,7 @@ Business Insights
 Reflection
 
 *Key Findings*
+
 Most employees remain with the company, while approximately 16% have left.
 
 Research & Development is the largest department and records the highest number of employees leaving.
@@ -81,6 +82,7 @@ Employees with shorter tenure and fewer total working years are more likely to l
 Job role and department appear to influence employee turnover.
 
 *Files Included*
+
 ├── Week1_Employee_Attrition_Analysis.ipynb
 
 ├── Business_Understanding_Report.pdf
@@ -94,6 +96,7 @@ Job role and department appear to influence employee turnover.
 
 
 *Skills Demonstrated*
+
 Business Understanding
 Data Cleaning
 Exploratory Data Analysis (EDA)
@@ -104,6 +107,7 @@ Data Storytelling
 Technical Documentation
 
 *Future Improvements*
+
 Future work on this project could include:
 Feature Engineering
 Statistical Hypothesis Testing
@@ -112,6 +116,7 @@ Model Evaluation and Deployment
 Interactive Dashboard Development using Power BI or Tableau
 
 *Acknowledgements*
+
 This project was completed as part of the Data Science Internship Programme at AnalystLab Africa using the IBM HR Analytics Employee Attrition & Performance dataset available on Kaggle.
 
 *Author*
