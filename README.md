@@ -92,8 +92,6 @@ Job role and department appear to influence employee turnover.
 
 ├── Reflection_Report.pdf
 
-├── Confusion_Matrix
-
 └── README.md
 
 
